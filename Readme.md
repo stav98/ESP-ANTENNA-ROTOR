@@ -12,7 +12,8 @@ ESP Antenna Rotor
 
 <table align="center">
  <tr>
-  <td><img src="/hardware/electronics/schematics+images/cpu1.jpg" height="400"></td>
+  <td><img src="/hardware/electronics/schematics+images/cpu1.jpg" height="200"></td>
+  <td>Τα υλικά για την κατασκευή της MCU</td>
   </tr>
  </table>
 
