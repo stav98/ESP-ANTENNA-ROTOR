@@ -12,7 +12,7 @@ ESP Antenna Rotor
 
 <table align="center">
  <tr>
-  <td><img src="/resources/images/open1.jpg" height="400"></td>
+  <td><img src="/hardware/electronics/schematics+images/cpu1.jpg" height="400"></td>
   </tr>
  </table>
 
