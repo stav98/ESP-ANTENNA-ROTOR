@@ -10,5 +10,9 @@ ESP Antenna Rotor
 
 <p>Επειδή το άρθρο έχει και εκπαιδευτικό σκοπό, αποφάσισα να τα κατασκευάσω όλα από το μηδέν. Έτσι αντί να χρησιμοποιήσω μια έτοιμη πλακέτα όπως το Node MCU κατσκεύασα την πλακέτα πάνω σε διάτρητη Perfboard.</p>
 
-
+<table align="center">
+ <tr>
+  <td><img src="/resources/images/open1.jpg" height="400"></td>
+  </tr>
+ </table>
 
