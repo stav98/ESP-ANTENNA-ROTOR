@@ -40,3 +40,4 @@ ESP Antenna Rotor
   <td><img src="/hardware/electronics/schematics+images/reset_prog2.jpg" height="300"></td>
   </tr>
  </table>
+ Τα σύρματα στην πίσω πλευρά της πλακέτας είναι μονωμένο σύρμα πηνίου. Για να κολλήσουμε την άκρη πρέπει να ξύσουμε το βερνίκι με κάποιο αιχμηρό αντικείμενο.
