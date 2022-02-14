@@ -24,3 +24,11 @@ ESP Antenna Rotor
   <td><img src="/hardware/electronics/schematics+images/mcu2.jpg" height="300"></td>
   </tr>
  </table>
+ 
+Επειδή το ESP8266 λειτουργεί στα 3,3V αλλά η υπόλοιπη κατασκευή (βασικά ο κινητήρας) απαιτεί 5V, θα φτιάξουμε ένα τροφοδοτικό από 5V σε 3,3V. Ο καταλληλότερος σταθεροποιητής γι' αυτή την χρήση είναι το LDV33, αλλά επειδή δεν είχα έβαλα το παλιό και κοινό LM317. Από το σπίτι κάτω, στέλνουμε τροφοδοσία 12V πάνω στην κεραία. Ανάλογα με το μήκος και την διατομή του καλωδίου θα έχουμε μια πτώση τάσης 2-4V. Μέσα στο κουτί του ρότορα θα βάλουμε ένα DC to DC converter ο οποίος θα δέχεται 8-10V και θα βγάζει 5V για να τροφοδοτήσει την συσκευή μας.
+<table align="center">
+ <tr>
+  <td><img src="/hardware/electronics/schematics+images/psu1.jpg" height="300"></td>
+  <td><img src="/hardware/electronics/schematics+images/psu2.jpg" height="300"></td>
+  </tr>
+ </table>
