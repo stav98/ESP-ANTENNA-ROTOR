@@ -17,3 +17,10 @@ ESP Antenna Rotor
  <tr><td align="center"><sub>Τα υλικά για την κατασκευή της MCU</sub></td></tr>
  </table>
 
+Ακολουθεί το σχέδιο διασύνδεσης του module ESP-12E
+<table align="center">
+ <tr>
+  <td><img src="/hardware/electronics/schematics+images/mcu1.jpg" height="300"></td>
+  <td><img src="/hardware/electronics/schematics+images/mcu2.jpg" height="300"></td>
+  </tr>
+ </table>
