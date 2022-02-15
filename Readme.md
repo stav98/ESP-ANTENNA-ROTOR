@@ -72,9 +72,9 @@ ESP Antenna Rotor
 <p> . </p>
 <table align="center">
  <tr>
-  <td><img src="/hardware/mechanics/interrupter3D.jpg" height="400"></td>
+  <td><img src="/hardware/mechanics/interrupter3D.png" height="400"></td>
   </tr>
- <tr><td align="center"><sub>Το σχέδιο της τελικής κατασκευής.</sub></td></tr>
+ <tr><td align="center"><sub>Το γρανάζι 7 δοντιών με τον πλαστικό άξονα και τον δίσκο 16 σχισμών.</sub></td></tr>
  </table>
 <table align="center">
  <tr>
