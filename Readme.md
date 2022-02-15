@@ -72,6 +72,12 @@ ESP Antenna Rotor
 <p> . </p>
 <table align="center">
  <tr>
+  <td><img src="/hardware/mechanics/interrupter3D.jpg" height="400"></td>
+  </tr>
+ <tr><td align="center"><sub>Το σχέδιο της τελικής κατασκευής.</sub></td></tr>
+ </table>
+<table align="center">
+ <tr>
   <td><img src="/hardware/electronics/schematics+images/interrupter1.jpg" height="300"></td>
   <td><img src="/hardware/electronics/schematics+images/interrupter2.jpg" height="300"></td>
   </tr>
