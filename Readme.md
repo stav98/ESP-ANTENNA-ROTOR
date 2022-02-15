@@ -51,7 +51,7 @@ ESP Antenna Rotor
  <tr><td align="center"><sub>Τοποθέτηση του μετατροπέα από USB σε σειριακή RS232.</sub></td></tr>
  </table>
  
- <b>Η τελική κατασκευή</b>
+<b>Η τελική κατασκευή</b>
 <p> . </p>
 <table align="center">
  <tr>
@@ -67,3 +67,13 @@ ESP Antenna Rotor
   <td><img src="/hardware/electronics/schematics+images/complit3.jpg" height="200"></td>
   </tr>
  </table>
+ 
+<b>Η μέτρηση της γωνίας</b>
+<p> . </p>
+<table align="center">
+ <tr>
+  <td><img src="/hardware/electronics/schematics+images/interrupter1.jpg" height="300"></td>
+  <td><img src="/hardware/electronics/schematics+images/interrupter2.jpg" height="300"></td>
+  </tr>
+ </table>
+
