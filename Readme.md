@@ -59,3 +59,11 @@ ESP Antenna Rotor
   </tr>
  <tr><td align="center"><sub>Το σχέδιο της τελικής κατασκευής.</sub></td></tr>
  </table>
+ 
+ <table align="center">
+ <tr>
+  <td><img src="/hardware/electronics/schematics+images/complit1.jpg" height="200"></td>
+  <td><img src="/hardware/electronics/schematics+images/complit2.jpg" height="200"></td>
+  <td><img src="/hardware/electronics/schematics+images/complit3.jpg" height="200"></td>
+  </tr>
+ </table>
